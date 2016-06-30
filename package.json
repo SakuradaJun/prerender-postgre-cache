@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/fadeit/prerender-postgre-cache",
   "dependencies": {
-    "pg": "~4.3.0",
-    "zlib": "~1.0.5"
+    "pg": "~4.3.0"
   },
   "devDependencies": {}
 }
